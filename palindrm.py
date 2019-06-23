@@ -1,6 +1,7 @@
-st=input()
-a=st[::-1]
-if (st==a):
+st= input()
+b=st[::-1]
+
+if(st==b):
   print("yes")
- else:
+else:
   print("no")
